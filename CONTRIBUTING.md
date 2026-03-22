@@ -8,10 +8,10 @@ Open an issue describing the error and the correct
 information.
 
 **For compliance or regulatory enquiries:**
-Contact compliance@fullcirclemud.com
+Contact compliance@fcmud.world
 
 **For general questions:**
-See fullcirclemud.com or join the community at
+See fcmud.world or join the community at
 [discord/forum link].
 
 Pull requests are not accepted for financial reports
