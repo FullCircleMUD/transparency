@@ -1,32 +1,30 @@
 # FullCircleMUD — Transparency
 
-FullCircleMUD publishes monthly operational and financial
-reports as part of its commitment to transparency with
-the player community. This repository is the single
-authoritative source for FullCircleMUD's financial
-disclosures, compliance framework, and reserve information.
+FullCircleMUD publishes periodic game economy and
+operational reports as part of its commitment to
+transparency with the player community. This
+repository is the public record of the game's
+economic health and operational status.
 
 ## Contents
 
 - [Compliance Framework](compliance/COMPLIANCE-FRAMEWORK.md)
-- [Eligible Jurisdictions](compliance/ELIGIBLE-JURISDICTIONS.md)
-- [Reserve Wallet Information](reserve/RESERVE-WALLET.md)
-- [Monthly Reports](reports/)
+- [Game Economy Reports](reports/)
 
 ## Disclaimer
 
-The gold redemption feature referenced in these reports
-is not available in all jurisdictions. These reports are
-published as corporate financial disclosures and do not
-constitute an offer, solicitation, or marketing of any
-financial product to persons in any jurisdiction.
+FullCircleMUD does not offer gold redemption and
+makes no representation regarding the monetary value
+of in-game assets. These reports describe the state
+of the in-game economy and the game's operational
+health. They do not constitute financial disclosures,
+investment advice, or marketing of any financial
+product.
 
-See https://fcmud.world/terms for eligibility
-information.
+See https://fcmud.world/terms for full terms of
+service.
 
 ## Contact
-
-Compliance enquiries: compliance@fcmud.world
 
 General enquiries: https://fcmud.world
 

@@ -1,4 +1,4 @@
-# FullCircleMUD — Monthly Transparency Report
+# FullCircleMUD — Game Economy Report
 ## [Month] [Year]
 
 *Published: [Date]*
@@ -12,48 +12,45 @@
 |---|---|
 | Gold in circulation (month end) | [X] gold |
 | Gold minted during period | [X] gold |
-| Gold redeemed during period | [X] gold |
+| Gold removed from circulation (sinks) | [X] gold |
 | Net change | [+/- X] gold |
 
 ---
 
-## 2. Reserve Position
+## 2. Game Token Activity
 
-| Asset | Value (USD equivalent) | % of Reserve |
+*Summary of trading activity on the XRPL DEX/AMM
+for game tokens during the period.*
+
+| Token Pair | Volume | Price Range |
 |---|---|---|
-| RLUSD (on-chain) | $[X] | [X]% |
-| Tokenised short-term Treasuries | $[X] | [X]% |
-| Money market funds | $[X] | [X]% |
-| Other stable assets | $[X] | [X]% |
-| **Total reserve** | **$[X]** | **100%** |
-
-| Metric | Value |
-|---|---|
-| Total gold supply value at redemption rate | $[X] |
-| Total reserve value | $[X] |
-| Collateralisation ratio | [X]% |
-| Reserve target | 110% minimum |
-| Target met? | [Yes / No — if No, explain below] |
-
-**RLUSD on-chain verification:**
-Wallet address: [XRPL wallet address]
-Balance at month end: [X] RLUSD
-Verify independently: https://xrpscan.com/account/[address]
+| Gold / RLUSD | [X] | [low] — [high] |
+| [Resource] / Gold | [X] | [low] — [high] |
+| [Resource] / Gold | [X] | [low] — [high] |
 
 ---
 
-## 3. Operating Income
+## 3. Player Activity
+
+| Metric | Value |
+|---|---|
+| Active subscribers (month end) | [X] |
+| New accounts created | [X] |
+| Peak concurrent players | [X] |
+
+---
+
+## 4. Operating Income
 
 | Source | Amount (USD) |
 |---|---|
 | Subscription revenue | $[X] |
-| Reserve yield income | $[X] |
 | Other income | $[X] |
 | **Total income** | **$[X]** |
 
 ---
 
-## 4. Operating Expenses
+## 5. Operating Expenses
 
 | Category | Amount (USD) |
 |---|---|
@@ -67,7 +64,7 @@ Verify independently: https://xrpscan.com/account/[address]
 
 ---
 
-## 5. Net Result
+## 6. Net Result
 
 | Metric | Amount (USD) |
 |---|---|
@@ -77,85 +74,31 @@ Verify independently: https://xrpscan.com/account/[address]
 
 ---
 
-## 6. Reinvestment Activity
+## 7. Game Development Updates
 
-*Describes how profits were deployed during the period,
-if at all. This section documents actual activity —
-it does not constitute a commitment regarding future
-reinvestment.*
+*Brief summary of game development activity during
+the period: new features, content updates, bug fixes,
+infrastructure changes.*
 
-| Activity | Amount (USD) | Notes |
-|---|---|---|
-| Reserve top-up | $[X] | [e.g. increased gold supply by X] |
-| Game development | $[X] | [brief description] |
-| Infrastructure | $[X] | [brief description] |
-| Retained | $[X] | [held as operating buffer] |
-| **Total** | **$[X]** | |
+[Narrative or "No major updates this period."]
 
 ---
 
-## 7. Historical Reinvestment Summary
+## 8. Notes
 
-*Rolling summary of reinvestment as a percentage of
-net profit. Documents demonstrated practice over time.
-Not a guarantee of future behaviour.*
-
-| Period | Net Profit | Amount Reinvested | % Reinvested |
-|---|---|---|---|
-| [Month Year] | $[X] | $[X] | [X]% |
-| [Month Year] | $[X] | $[X] | [X]% |
-| [Month Year] | $[X] | $[X] | [X]% |
-| **Cumulative** | **$[X]** | **$[X]** | **[X]%** |
-
----
-
-## 8. Player Economy Statistics
-
-*Included for player transparency — not financial
-disclosure.*
-
-| Metric | Value |
-|---|---|
-| Active subscribers (month end) | [X] |
-| New accounts created | [X] |
-| Redemptions processed | [X] |
-| Total RLUSD redeemed | $[X] |
-| Average redemption size | $[X] |
-| Redemptions declined (jurisdiction) | [X] |
-
----
-
-## 9. Compliance Notes
-
-*Any material changes to the compliance framework,
-jurisdiction list, or reserve management approach
-during the period. If no changes, state "No material
-changes during this period."*
-
-[Narrative — e.g.:
-- Paraguay added to eligible jurisdictions list on [date]
-- Reserve composition adjusted: Treasury allocation
-  increased from X% to Y% on [date]
-- No material changes during this period]
-
----
-
-## 10. Notes and Commentary
-
-*Optional. Narrative context for any unusual figures,
-one-off events, or items the operator wishes to
-highlight. Should be factual and measured in tone.*
+*Optional. Context for any unusual figures, one-off
+events, or items of note.*
 
 [Narrative or "None this period."]
 
 ---
 
-*This report is published as a corporate financial
-disclosure. It does not constitute an offer,
-solicitation, or marketing of any financial product
-to persons in any jurisdiction.*
-
-*See https://fcmud.world/terms for eligibility
-information.*
+*This report describes the state of the in-game
+economy and the game's operational health. It does
+not constitute a financial disclosure, investment
+advice, or marketing of any financial product.
+FullCircleMUD does not offer gold redemption and
+makes no representation regarding the monetary
+value of in-game assets.*
 
 *FullCircleMUD — https://fcmud.world*
