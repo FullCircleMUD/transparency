@@ -28,7 +28,7 @@ service.
 
 General enquiries: https://fcmud.world
 
-Game source code: https://github.com/fullcirclemud/fullcirclemud
+Game source code: https://github.com/fullcirclemud/game
 
 ## Licence
 
